@@ -11,6 +11,17 @@
 |       Mac 1100     |      DCCE（大工计控）)   |    PLC_config      |
 |        LE5109L    |   hollysys(和利时)      |    Autothink      |
 |       S7-200 Smart    | Siemens(西门子)     |     STEP 7-MicroWIN SMART      |
-
+|       NA300/NA400    | Nandaauto(南大奥拓)     |     NApro     |
+|    AT16S0R   | Haiwell(海为)  |   HaiwellHappy    |
+|       |   |       |
+|       |   |       |
+|       |   |       |
+|       |   |       |
+|       |   |       |
+|       |   |       |
+|       |   |       |
+|       |   |       |
+|       |   |       |
+|       |   |       |
 # TODO
 补充完全 archtechture, OS, protocol, service 等
