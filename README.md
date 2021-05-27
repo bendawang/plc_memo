@@ -2,8 +2,8 @@
 
 | PLC module |  Vendor | software |
 |:----------:|:-------:|:--------:|
-|   S7-300<br>S7-400<br>1200<br>1500   | Siemens(西门子) |    STEP 7<br>TIA(博途)  |
-|   M200<br>M221<br>M100         |  Schneider(施耐德)       | EcoStruxure Machine Expert - Basic<br>Somachine basic         |
+|   S7-300<br>S7-400<br>S7-1200<br>S7-1500   | Siemens(西门子) |    STEP 7<br>TIA(博途)  |
+|   M100<br>M200<br>M221         |  Schneider(施耐德)       | EcoStruxure Machine Expert - Basic<br>Somachine basic         |
 |   M241<br>M258<br>M218       |  Schneider(施耐德)        |  EcoStruxure Machine Expert/Somachine        |
 |   AS228T         |  Delta(台达)       |   ISPsoft(总体，编程)+HWconfig(硬件组态)+COMMGR(通信)       |
 |       M340<br>M580<br>Q140     | Schneider(施耐德)      |    Control  Expert <br>Unity pro   |
