@@ -13,7 +13,7 @@
 |       S7-200 Smart    | Siemens(西门子)     |     STEP 7-MicroWIN SMART      |
 |       NA300/NA400    | Nandaauto(南大奥拓)     |     NApro     |
 |    AT16S0R   | Haiwell(海为)  |   HaiwellHappy    |
-|       |   |       |
+|   CX2030    | BECKHOFF(倍福)  |  Twincat     |
 |       |   |       |
 |       |   |       |
 |       |   |       |
